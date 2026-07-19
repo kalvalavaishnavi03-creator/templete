@@ -1,0 +1,56 @@
+
+*{
+    font-family:"karma",serif;
+    margin:0px;
+    padding:0px;
+}
+    header{
+    margin-top:10px;
+    text-align:center;
+    font-size: 39px;
+    margin-bottom:90;
+    
+    }
+    #food{ margin-left:600px;}
+    
+
+        #menu{
+        margin-left:600px;
+
+    }
+   
+    main{
+     margin:0px 125px;
+    }
+    section{
+        display:inline-block;
+        margin-left:10px;
+        vertical-align:top;
+        width:304px;
+    }
+    img{
+        width:100%;
+    }
+        
+    h1{
+       
+        font-size:24px;
+        font-weight: 400;
+        margin: 10px;
+        text-align-last:center;
+        margin:8px 0px;
+        text-align:justify;
+    }
+    p{
+        margin-top:20px;
+        text-align-last:center ;
+        font-size: 18px;
+        text-align:justify;
+
+    }
+    div{
+        padding: 10px;
+    }
+   
+   
+    
